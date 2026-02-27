@@ -6,7 +6,7 @@ export const Home = () => {
                 <div className="row">
                     <div className="col-6 ">
                         <div className="d-flex flex-column justify-content-center h-100 gap-5">
-                            <div>
+                            <div >
 
                                 <h1>Make <br />remote work</h1>
 
