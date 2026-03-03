@@ -102,7 +102,7 @@ export const Careers = () => {
             <br />
             <br />
 
-            <div className='col-50 border text-center h-100 gap-5 bg-info-subtle'>
+            <div className=' container text-center bg-info-subtle'>
                 <h1>Ready to cook smarter?</h1>
                 <br />
                 <p>Join thousands of satisfied customers who are already enjoying healthier, tastier meals with our easy-to-follow recipes.</p>
