@@ -1,8 +1,10 @@
 import React from 'react'
 /*import {Header} from './components/Header.jsx' 
  import { Home } from './Pages/Home' 
-import { Careers } from './Pages/Careers.jsx'*/
-import { About } from './Pages/About.jsx'
+import { Careers } from './Pages/Careers.jsx'
+import { About } from './Pages/About.jsx'*/
+import { Login } from './Pages/Login.jsx'
+import { Registre } from './Pages/Registre.jsx'
 
 export const App = () => {
 
@@ -10,8 +12,10 @@ export const App = () => {
     <>
       {/* <Header />
    <Home /> 
-    <Careers />*/}
+    <Careers />
       <About />
+      <Login />*/}
+      <Registre />
     </>
 
   )
