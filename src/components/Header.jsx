@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Header = () => {
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
+    <nav className="navbar navbar-expand-lg bg-body-tertiary border-bottom border-success">
       <div className="container">
         <a className="navbar-brand" href="#">SNAP</a>
 
@@ -53,7 +53,7 @@ export const Header = () => {
 
           <div>
             <button type="button" className="btn text-secondary">Login</button>
-            <button type="button" className="btn btn-outline-secondary">Register</button>
+            <button type="button" className="btn btn-outline-secondary border border-success">Register</button>
           </div>
         </div>
       </div>
