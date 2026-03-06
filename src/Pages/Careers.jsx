@@ -4,7 +4,6 @@ import { Header } from '../components/Header.jsx'
 export const Careers = () => {
     return (
         <>
-            <Header />
 
             <div className="container text-center">
                 <div className="row">
